@@ -7,10 +7,10 @@ electronic dictionary
 
 The purpose of Mk-Vocabulary application is to make it easier for you to learn foreign language vocabulary and phrases. The form of teaching is very simple and at the same time effective - words and phrases are randomly selected at regular intervals and displayed in the application window. This way you are constantly reminded of them, which leads to easier memorization.
 
-Mk-Vocabulary also includes its own vocabulary manager, in which you can additionally divide the vocabulary into any number of categories. More previews are available in the [[Help]].
+Mk-Vocabulary also includes its own vocabulary manager, in which you can additionally divide the vocabulary into any number of categories. More previews are available in the [Help](https://github.com/martink-devel/mk-vocabulary/wiki/Help).
 
 Main features
-(full overview at [[Editions]]):
+(full overview at [Editions](https://github.com/martink-devel/mk-vocabulary/wiki/Editions)):
 
 ### Educational
 
